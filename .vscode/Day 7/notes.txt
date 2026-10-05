@@ -1,0 +1,45 @@
+In Js Array Declaration:
+--------------------------
+   1.literal key
+   2.using new keyword(object)
+
+   Loops:
+   ------
+      1.for Loop
+      2.while Loop
+      3.do while Loop
+      4.for-of loop(arrays/strings)->only values
+      5.for-in loop(arrays/strings)->only index's 
+      6.forEach loop
+      7.map()
+      8.filter()
+      9.reduce()
+ii.Objects
+    ->objects are the real time entitities used to store data in the from key and value Pair
+    1.literal:
+
+
+
+ seal()=> allows modification
+ freeze()=>doesnot allows modification   
+
+
+ Types of functions:
+ -----------------
+ i.predefine functions
+ ii.User-defined functions
+
+  In JS we can declare functions in many ways(classifications)
+  ------------------------------------------------------------
+  1.Anonymous functions
+  2.noral/named functions
+  3.functional expression
+  4.first class functional
+  5.immediate invoking function(IIf/self calling function)
+  6.Arrow function(ES6)
+  7.Nested functions
+  8.higher order function
+  9.callback function
+  10.generator function
+   
+      

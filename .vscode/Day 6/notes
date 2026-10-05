@@ -1,0 +1,49 @@
+JavaScript
+-----------
+  ->javascript is a scripting language as well as programming language
+  ->Js is dynamically typed programming(means it is valid for any variables..e.g u can store any type of dta like int,boolean,float etc)
+  ->Js having a single call stack
+
+
+Uses:
+----
+   ->using js we can add functionalities to web pages
+   ->using js we can build dynamic web applications
+   ->here we can achieve DOM(Document  Obeject Model) functonalities using that we can manipulate HTML and CSS
+   ->We can Fetch data from server(API's) and also send data to server (API's)
+
+1991
+mocha->1995-> net scope(browser company)
+|
+live scriipt
+|
+javascript
+|
+ECMA-> added new features -> release 1st version->Es1(ECMA script version1)
+
+stable version->ES6
+present version->ES16
+
+Implementation:
+---------------
+
+1.Inline
+2.Initernal
+3.External
+
+
+1.Inline
+
+<button onclick="alert('user clicked')">Click</button>
+
+Types:
+------
+1.iIDENTIFIERS
+2.KEYWORDS
+3.LITERALS
+4.OPERATORS
+5.SEPERATORS
+6.COMMENTS
+
+   
+

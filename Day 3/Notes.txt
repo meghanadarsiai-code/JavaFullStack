@@ -1,1 +1,36 @@
+LISTS IN HTML
+
+
 Types of Lists---
+1.Ordered List
+2.Unordered List
+3.Nested List
+4.Descriptive / definition List
+
+Ordered List
+------------
+  <ol type="a" start=5 reversed>  ----> start=number where ordering should start reverse can be used for representing in the reverse order 
+        <li>Hello</li>
+        <li>HI</li>
+        <li>Hlooo</li>
+    </ol>
+
+Forms:
+------
+  -->Forms are used to collect user information digitally
+
+  Forms Tags:
+  ----------
+      <from></form>
+      <fieldset></fieldset>
+      <legend></legend>
+      <label></label>
+      <input>
+      <select></select> -> <option></option>
+      <button></button>
+      <textarea></textarea>
+
+  Input type Values:
+  ----------------- 
+  1.email
+  2.
