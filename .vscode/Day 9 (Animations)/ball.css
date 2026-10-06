@@ -1,0 +1,30 @@
+.ball{
+    width: 200px;
+    height: 200px;
+    background-color: chartreuse;
+    border-radius: 50%;
+    animation: ball 2s linear 2s infinite normal;
+}
+@keyframes ball{
+    from{
+        transform:translateY(-300px);
+    }
+    to{
+        tarnsform: translateY(300px);
+    }
+}
+.heading{
+    text-align: center;
+    color:blueviolet;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+@keyframes heading{
+    from{
+        transform: translateX(-300px);
+    }
+    to{
+        tranform: translateX(300px);
+    }
+}
